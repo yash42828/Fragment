@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/dark_olive_green</item>
+        <item name="colorPrimaryDark">@color/dark_olive_green</item>
+        <item name="colorAccent">@color/dark_blue</item>
+        <item name="android:navigationBarColor" tools:targetApi="lollipop">@color/dark_olive_green</item>
+    </style>
+
+</resources>
